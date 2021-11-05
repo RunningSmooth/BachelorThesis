@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Wer erstellt die Trainingspläne?",
+    "answer": "Die Pläne werden maschinell durch unseren Algorithmus erstellt."
+  },
+  {
+    "id": 2,
+    "question": "Was kostet mich ein Trainingsplan?",
+    "answer": "Die Pläne sind zurzeit kostenfrei."
+  },
+  {
+    "id": 3,
+    "question": "Wo muss ich mich anmelden, um meinen Trainingsplan zu erstellen?",
+    "answer": "Zurzeit können Sie sich ohne Anmeldung einen Trainingsplan erstellen."
+  },
+  {
+    "id": 4,
+    "question": "Ich habe einen Trainingsplan erstellt und finde ihn nicht mehr. Wo ist er hin?",
+    "answer": "Nach der Erstellung können Sie den Plan direkt als PDF herunterladen. Wir speichern keine Trainingspläne. Verlassen Sie die Seite oder schließen Sie den Browser, geht der Plan verloren."
+  }
+]

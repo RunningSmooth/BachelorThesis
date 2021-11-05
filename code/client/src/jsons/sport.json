@@ -1,0 +1,100 @@
+{
+  "sport1": {
+    "name": "Laufen",
+    "value": "sport1",
+    "disciplines": {
+      "discipline1": {
+        "name": "Marathon",
+        "value": "discipline1",
+        "description": [
+          "Der Marathonlauf ist die längste olympische Laufdisziplin mit einer Streckenlänge von 42,195 Kilometern.",
+          "Er hat seinen Ursprung im antiken Griechenland. Nach dem Sieg der Athener über die Perser in der Schlacht von Marathon, soll ein Bote ungefähr 40 Kilometer von Marathon nach Athen gelaufen sein, um die Nachricht zu verkünden. Nachdem er die Botschaft überbracht hatte, soll er tot zusammengebrochen sein.",
+          "Der aktuelle Weltrekord bei den Männern wurde vom kenianischen Läufer Eliud Kipchoge am 16.09.2018 in Berlin erzielt. Er lief eine Zeit von 2:01:39. Bei den Frauen geht der Weltrekord ebenfalls nach Kenia. Brigid Kosgei lief am 13.10.2019 in Chicago eine Zeit von 2:14:04. [Stand 08.06.2021]"
+        ],
+        "length": "42.195",
+        "amateurGoal": "05:00:00",
+        "minGoal": "02:10:00",
+        "minWeeks": 24,
+        "minDays": 5,
+        "trackInterval": [5, 15, 26, 37],
+        "minDistance": 4
+      },
+      "discipline2": {
+        "name": "Halbmarathon",
+        "value": "discipline2",
+        "description": [
+          "Mit der Hälfte der Streckenlänge des Marathons ist der Halbmarathon ein Langstreckenlauf über eine Distanz von 21,0975 Kilometern. Er ist keine olypische Disziplin.",
+          "Der aktuelle Weltrekord bei den Männern wurde vom kenianischen Läufer Kibiwott Kandie am 06.12.2020 in Valencia erzielt. Er lief eine Zeit von 57:32. Bei den Frauen geht der Weltrekord ebenfalls nach Kenia. Ruth Chepngetich lief am 04.04.2021 in Istanbul eine Zeit von 1:04:02. [Stand 08.06.2021]"
+        ],
+        "length": "21.0985",
+        "amateurGoal": "02:15:00",
+        "minGoal": "01:00:00",
+        "minWeeks": 16,
+        "minDays": 4,
+        "trackInterval": [5, 10, 15, 19],
+        "minDistance": 3
+      },
+      "discipline3": {
+        "name": "10.000-Meter-Lauf",
+        "value": "discipline3",
+        "description": [
+          "Der 10.000-Meter-Lauf ist wie der Marathon eine olympische Laufdisziplin. Gelaufen werden hierfür 25 Stadionrunden.",
+          "Der aktuelle Weltrekord bei den Männern wurde vom ugandischen Läufer Joshua Cheptegei am 07.10.2020 in Valencia erzielt. Er lief eine Zeit von 26:11,00. Bei den Frauen geht der Weltrekord in die Niederlande. Sifan Hassan lief am 06.06.2021 in Hengelo eine Zeit von 29:06:82. [Stand 08.06.2021]"
+        ],
+        "length": "10.000",
+        "amateurGoal": "01:10:00",
+        "minGoal": "00:27:00",
+        "minWeeks": 12,
+        "minDays": 3,
+        "trackInterval": [2, 4.5, 6, 8.5],
+        "minDistance": 1
+      }
+    },
+    "description": [
+      "Laufen als Wettbewerb war bereits Teil der ersten überlieferten Olympischen Spiele 776 vor Christus im antiken Griechenland und hat eine lange Geschichte.",
+      "Der Laufsport bietet viele Kurz- und Langstreckendisziplinen. Die wahrscheinlich bekannteste Laufdisziplin ist der Marathon.",
+      "Laufen kann die Gesundheit verbessern. Beispielsweise sinkt das Herzinfarktrisiko, wenn man regelmäßig läuft. Der Sport kann sogar beim Stressabbau oder sogar gegen Depressionen helfen."
+    ],
+    "zones": ["ReKom", "GA1", "GA2", "WSA"]
+  },
+  "sport2": {
+    "name": "Schwimmen",
+    "value": "sport2",
+    "disciplines": {
+      "discipline1": {
+        "name": "1.500-Meter-Freistil",
+        "value": "discipline1",
+        "description": [
+          "1.500 Meter Beschreibungstext 1",
+          "1.500 Meter Beschreibungstext 2"
+        ],
+        "length": "1.5",
+        "amateurGoal": "00:45:00",
+        "minGoal": "00:14:35",
+        "minWeeks": 12,
+        "minDays": 3,
+        "trackInterval": [0.2, 0.6, 1.0, 1.5],
+        "minDistance": 0.2
+      },
+      "discipline2": {
+        "name": "Open Water 10 Kilometer",
+        "value": "discipline2",
+        "description": [
+          "Das Freiwasserschwimmen findet auf einem offenen Gewässer statt."
+        ],
+        "length": "10.000",
+        "amateurGoal": "03:15:00",
+        "minGoal": "01:48:33",
+        "minWeeks": 20,
+        "minDays": 4,
+        "trackInterval": [1, 4, 7, 10],
+        "minDistance": 1
+      }
+    },
+    "description": [
+      "Schwimmen haben sich die Menschen damals von den Fischen abgeschaut.",
+      "Das ist kein Witz. Vertrau mir."
+    ],
+    "zones": ["ReKom", "GA1", "GA2", "SWIM"]
+  }
+}
